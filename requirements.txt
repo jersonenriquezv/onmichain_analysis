@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+web3
+solana
+xrpl-py
+kafka-python
+confluent-kafka
+psycopg2-binary
+snowflake-connector-python
+redis
+sqlalchemy
+pydantic
+apache-airflow
+python-dotenv
+streamlit
+pytest 

@@ -16,6 +16,7 @@ This project is all about tracking blockchain transactions across Ethereum, Sola
 1. Connected to Ethereum, Solana, XRP for live transaction data
 2. Kafka pipelines are up, streaming blockchain events
 3. FastAPI backend with some functional endpoints
+image.png
 4. PostgreSQL & Redis handling data storage + caching
 5. Airflow DAGs ready for automation (logic still in progress)
 6. Analytics modules in place—gas fees, token movement, arbitrage detection
